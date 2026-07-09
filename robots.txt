@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Host: https://водоканал48.рф/
+
+User-agent: *
+Disallow: /thanks.html
+
+User-agent: Yandex
+Disallow: /thanks.html
+
+Sitemap: https://водоканал48.рф/sitemap.xml

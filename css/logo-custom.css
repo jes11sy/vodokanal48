@@ -1,0 +1,72 @@
+/* Стили логотипа для сайта Липецк Поверка */
+
+.navbar-brand {
+  transition: transform 0.3s ease;
+}
+
+.navbar-brand:hover {
+  transform: scale(1.03);
+}
+
+.navbar-brand svg {
+  flex-shrink: 0;
+}
+
+/* Анимация для логотипа */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-3px); }
+}
+
+.navbar-brand:hover svg {
+  animation: float 2s ease-in-out infinite;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+  .navbar-brand svg {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .navbar-brand div span:first-child {
+    font-size: 22px !important;
+  }
+  
+  .navbar-brand div span:last-child {
+    font-size: 9px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar-brand svg {
+    width: 35px;
+    height: 35px;
+  }
+  
+  .navbar-brand div span:first-child {
+    font-size: 20px !important;
+  }
+  
+  .navbar-brand div span:last-child {
+    font-size: 8px !important;
+  }
+}
+
+/* Футер логотип */
+.footer__logo a {
+  transition: transform 0.3s ease;
+}
+
+.footer__logo a:hover {
+  transform: scale(1.05);
+}
+
+/* Градиент текста для старых браузеров */
+@supports not (-webkit-background-clip: text) {
+  .navbar-brand div span:first-child,
+  .footer__logo div span:first-child {
+    color: #007bff !important;
+    -webkit-text-fill-color: unset !important;
+  }
+}

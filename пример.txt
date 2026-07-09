@@ -1,0 +1,1391 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <base href="https://samarapoverka.ru/">
+  <meta charset="utf-8">
+  <title>Поверка счетчиков воды в Самаре, на дому без снятия, цена  от 350*  руб</title>
+  <meta name="description" content="Поверка счетчиков воды на дому без снятия в Самаре по доступной цене от 350 руб с лицензией. Наша аккредитованная организация официально предоставляет услугу поверки водомеров и вносит данные результатов проверки водосчётчиков, приборов учета в госреестр ФГИС АРШИН, Росстандарт.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="canonical" href="https://samarapoverka.ru/">
+  <link rel="shortcut icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="fonts/ProximaNova-Regular.woff2" as="font" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.min.css">
+  <link rel="stylesheet" href="css/add.css">
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(88444804, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+   ym(93900644, "init", {
+       clickmap:true,
+       trackLinks:true,
+       accurateTrackBounce:true
+  });
+</script>
+<!-- /Yandex.Metrika counter -->
+<script>
+    (function(w, d, u, i, o, s, p) {
+        if (d.getElementById(i)) { return; } w['MangoObject'] = o;
+        w[o] = w[o] || function() { (w[o].q = w[o].q || []).push(arguments) }; w[o].u = u; w[o].t = 1 * new Date();
+        s = d.createElement('script'); s.async = 1; s.id = i; s.src = u;
+        p = d.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);
+    }(window, document, '//widgets.mango-office.ru/widgets/mango.js', 'mango-js', 'mgo'));
+    mgo({calltracking: {id: 30617, elements: [{"numberText":"78462115157"}], domain: 'samarapoverka.ru'}});
+</script>
+
+<link rel="stylesheet" href="/assets/components/ajaxform/css/default.css" type="text/css" />
+</head>
+<body class="">
+  <div class="container">
+	<div class="row justify-content-center">
+	  <div class="col-xl-11">
+		<div class="py-2 border-bottom d-none d-xl-block">
+  <div class="row align-items-center">
+	<div class="col-auto mr-auto">
+	  <ul class="contacts row list-unstyled mb-0">
+		<li class="col-auto">
+		  <a class="contacts__item" href="mailto:info@dbu-poverka.ru">
+			<span class="contacts__item-icon">
+			  <img src="img/email.svg" alt="email">
+			</span>
+			info@dbu-poverka.ru
+		  </a>
+		</li>
+		<li class="col-auto">
+		  <div class="contacts__item">
+			<span class="contacts__item-icon">
+			  <img src="img/address.svg" alt="">
+			</span>
+			Самара, ул. Садовая, д. 280
+		  </div>
+		</li>
+		<li class="col-auto">
+		  <div class="contacts__item">
+			<span class="contacts__item-icon">
+			  <img src="img/hours.svg" alt="email">
+			</span>
+			Пн.-Вс.: 9:00 - 21:00
+		  </div>
+		</li>
+	  </ul>
+	</div>
+	<div class="col-auto">
+	  <div class="d-flex">
+		<a href="https://t.me/dbupoverka" class="btn btn-sm btn-blue mr-2" target="_blank" rel="noopener noreferrer">
+		  <div class="sr-only">Telegram</div>
+		  <svg width="20" height="20" fill="currentColor" aria-hidden="true" focusable="false">
+			<use xlink:href="img/sprite.svg#telegram"></use>
+		  </svg>
+		</a>
+		<a href="viber://chat?number=%2B79775604613" class="btn btn-sm btn-purple mr-2" target="_blank" rel="noopener noreferrer">
+		  <div class="sr-only">Viber</div>
+		  <svg width="20" height="20" fill="currentColor" aria-hidden="true" focusable="false">
+			<use xlink:href="img/sprite.svg#viber"></use>
+		  </svg>
+		</a>
+		<a href="https://wa.me/79775604613" class="btn btn-sm btn-success mr-2" target="_blank" rel="noopener noreferrer">
+		  <div class="sr-only">WhatsApp</div>
+		  <svg width="20" height="20" fill="currentColor" aria-hidden="true" focusable="false">
+			<use xlink:href="img/sprite.svg#whatsapp"></use>
+		  </svg>
+		</a>
+		<a href="https://vk.com/dbupoverka" class="btn btn-sm btn-outline-primary mr-2" target="_blank" rel="noopener noreferrer">
+		  <svg aria-hidden="true" focusable="false" viewBox="0 0 576 512" width="20" height="20">
+			<path fill="currentColor" d="M545 117.7c3.7-12.5 0-21.7-17.8-21.7h-58.9c-15 0-21.9 7.9-25.6 16.7 0 0-30 73.1-72.4 120.5-13.7 13.7-20 18.1-27.5 18.1-3.7 0-9.4-4.4-9.4-16.9V117.7c0-15-4.2-21.7-16.6-21.7h-92.6c-9.4 0-15 7-15 13.5 0 14.2 21.2 17.5 23.4 57.5v86.8c0 19-3.4 22.5-10.9 22.5-20 0-68.6-73.4-97.4-157.4-5.8-16.3-11.5-22.9-26.6-22.9H38.8c-16.8 0-20.2 7.9-20.2 16.7 0 15.6 20 93.1 93.1 195.5C160.4 378.1 229 416 291.4 416c37.5 0 42.1-8.4 42.1-22.9 0-66.8-3.4-73.1 15.4-73.1 8.7 0 23.7 4.4 58.7 38.1 40 40 46.6 57.9 69 57.9h58.9c16.8 0 25.3-8.4 20.4-25-11.2-34.9-86.9-106.7-90.3-111.5-8.7-11.2-6.2-16.2 0-26.2.1-.1 72-101.3 79.4-135.6z"></path>
+		  </svg>
+		</a>
+		
+		
+		<a href="https://ok.ru/group/58269418389650" class="btn btn-sm btn-outline-primary mr-2" target="_blank" rel="noopener noreferrer">
+		  <svg aria-hidden="true" focusable="false" viewBox="0 0 320 512" width="20" height="20">
+			<path fill="currentColor" d="M275.1 334c-27.4 17.4-65.1 24.3-90 26.9l20.9 20.6 76.3 76.3c27.9 28.6-17.5 73.3-45.7 45.7-19.1-19.4-47.1-47.4-76.3-76.6L84 503.4c-28.2 27.5-73.6-17.6-45.4-45.7 19.4-19.4 47.1-47.4 76.3-76.3l20.6-20.6c-24.6-2.6-62.9-9.1-90.6-26.9-32.6-21-46.9-33.3-34.3-59 7.4-14.6 27.7-26.9 54.6-5.7 0 0 36.3 28.9 94.9 28.9s94.9-28.9 94.9-28.9c26.9-21.1 47.1-8.9 54.6 5.7 12.4 25.7-1.9 38-34.5 59.1zM30.3 129.7C30.3 58 88.6 0 160 0s129.7 58 129.7 129.7c0 71.4-58.3 129.4-129.7 129.4s-129.7-58-129.7-129.4zm66 0c0 35.1 28.6 63.7 63.7 63.7s63.7-28.6 63.7-63.7c0-35.4-28.6-64-63.7-64s-63.7 28.6-63.7 64z"></path>
+		  </svg>
+		</a>
+		<button type="button" class="btn btn-sm btn-primary" data-toggle="modal" data-target="#orderModal">Вызвать мастера</button>
+	  </div>
+	</div>
+  </div>
+</div>
+
+<nav class="navbar navbar-expand-xl navbar-light">
+  <a class="navbar-brand" href="https://samarapoverka.ru/">
+	<img src="img/logo-new.svg" alt="Самара Поверка Самара Лого">
+	
+
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	<span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+	<ul class="navbar-nav align-items-center flex-grow-1">
+	  <li class="nav-item active">
+		<a class="nav-link" href="https://samarapoverka.ru/">Главная</a>
+	  </li>
+	  <li class="nav-item dropdown">
+		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+		  О компании
+		</a>
+		<div class="dropdown-menu shadow border-0 ml-xl-n3 min-w-0" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="o-nas/">О нас</a><a class="dropdown-item" href="vakansii/">Вакансии</a><a class="dropdown-item" href="novosti/">Новости</a><a class="dropdown-item" href="nashi-sotrudniki/">Наши сотрудники</a><a class="dropdown-item" href="articles/">Полезная информация</a><a class="dropdown-item" href="fgis-arshin-svedeniya-poverka/">ФГИС "Результаты поверки"</a>
+		</div>
+	  </li>
+	  <li class="nav-item dropdown">
+		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+		  Наши услуги
+		</a>
+		<div class="dropdown-menu shadow border-0 ml-xl-n3 min-w-0" aria-labelledby="navbarDropdown2">
+<a class="dropdown-item" href="nashi-uslugi/poverka-schetchikov-vody-bez-demontazha/">Поверка счетчиков воды без демонтажа</a><a class="dropdown-item" href="nashi-uslugi/poverka-schetchikov-vody-na-domu/">Поверка счетчиков воды на дому</a><a class="dropdown-item" href="nashi-uslugi/ustanovka-schetchikov-vody/">Установка счетчиков воды</a><a class="dropdown-item" href="nashi-uslugi/zamena-schetchikov-vody/">Замена счетчиков воды</a><a class="dropdown-item" href="nashi-uslugi/zamena-schetchikov-tepla/">Замена счетчиков тепла</a><a class="dropdown-item" href="nashi-uslugi/poverka-schetchikov-tepla/">Поверка счетчиков тепла</a><a class="dropdown-item" href="nashi-uslugi/oplombirovka-schetchikov/">Опломбировка счетчиков</a>
+		</div>
+	  </li>
+
+
+<li class="nav-item">
+		<a class="nav-link" href="dokumenty/">Документы</a>
+	  </li><li class="nav-item">
+		<a class="nav-link" href="otzyvy/">Отзывы</a>
+	  </li><li class="nav-item">
+		<a class="nav-link" href="ceny/">Наши цены</a>
+	  </li><li class="nav-item">
+		<a class="nav-link" href="kontakty/">Контакты</a>
+	  </li>
+
+	  <li class="text-center ml-xl-auto">
+		<a class="navbar-phone" href="tel:+78462115157">+7 846 211-51-57</a>
+		<button type="button" class="navbar-callback btn btn-danger btn-sm btn-block" data-toggle="modal" data-target="#callbackModal">ЗАКАЗАТЬ ЗВОНОК</button>
+		<div class="d-flex d-xl-none mt-2">
+		  <a href="https://t.me/dbupoverka" class="btn btn-sm btn-blue mr-2" target="_blank" rel="noopener noreferrer">
+			<div class="sr-only">Telegram</div>
+			<svg width="20" height="20" fill="currentColor" aria-hidden="true" focusable="false">
+			  <use xlink:href="img/sprite.svg#telegram"></use>
+			</svg>
+		  </a>
+		  <a href="viber://chat?number=%2B79775604613" class="btn btn-sm btn-purple mr-2" target="_blank" rel="noopener noreferrer">
+			<div class="sr-only">Viber</div>
+			<svg width="20" height="20" fill="currentColor" aria-hidden="true" focusable="false">
+			  <use xlink:href="img/sprite.svg#viber"></use>
+			</svg>
+		  </a>
+		  <a href="https://wa.me/79775604613" class="btn btn-sm btn-success mr-2" target="_blank" rel="noopener noreferrer">
+			<div class="sr-only">WhatsApp</div>
+			<svg width="20" height="20" fill="currentColor" aria-hidden="true" focusable="false">
+			  <use xlink:href="img/sprite.svg#whatsapp"></use>
+			</svg>
+		  </a>
+		  <a href="https://vk.com/dbupoverka" class="btn btn-sm btn-outline-primary mr-2" target="_blank" rel="noopener noreferrer">
+			<svg aria-hidden="true" focusable="false" viewBox="0 0 576 512" width="20" height="20">
+			  <path fill="currentColor" d="M545 117.7c3.7-12.5 0-21.7-17.8-21.7h-58.9c-15 0-21.9 7.9-25.6 16.7 0 0-30 73.1-72.4 120.5-13.7 13.7-20 18.1-27.5 18.1-3.7 0-9.4-4.4-9.4-16.9V117.7c0-15-4.2-21.7-16.6-21.7h-92.6c-9.4 0-15 7-15 13.5 0 14.2 21.2 17.5 23.4 57.5v86.8c0 19-3.4 22.5-10.9 22.5-20 0-68.6-73.4-97.4-157.4-5.8-16.3-11.5-22.9-26.6-22.9H38.8c-16.8 0-20.2 7.9-20.2 16.7 0 15.6 20 93.1 93.1 195.5C160.4 378.1 229 416 291.4 416c37.5 0 42.1-8.4 42.1-22.9 0-66.8-3.4-73.1 15.4-73.1 8.7 0 23.7 4.4 58.7 38.1 40 40 46.6 57.9 69 57.9h58.9c16.8 0 25.3-8.4 20.4-25-11.2-34.9-86.9-106.7-90.3-111.5-8.7-11.2-6.2-16.2 0-26.2.1-.1 72-101.3 79.4-135.6z"></path>
+			</svg>
+		  </a>
+		  
+		  
+		  <a href="https://ok.ru/group/58269418389650" class="btn btn-sm btn-outline-primary" target="_blank" rel="noopener noreferrer">
+			<svg aria-hidden="true" focusable="false" viewBox="0 0 320 512" width="20" height="20">
+			  <path fill="currentColor" d="M275.1 334c-27.4 17.4-65.1 24.3-90 26.9l20.9 20.6 76.3 76.3c27.9 28.6-17.5 73.3-45.7 45.7-19.1-19.4-47.1-47.4-76.3-76.6L84 503.4c-28.2 27.5-73.6-17.6-45.4-45.7 19.4-19.4 47.1-47.4 76.3-76.3l20.6-20.6c-24.6-2.6-62.9-9.1-90.6-26.9-32.6-21-46.9-33.3-34.3-59 7.4-14.6 27.7-26.9 54.6-5.7 0 0 36.3 28.9 94.9 28.9s94.9-28.9 94.9-28.9c26.9-21.1 47.1-8.9 54.6 5.7 12.4 25.7-1.9 38-34.5 59.1zM30.3 129.7C30.3 58 88.6 0 160 0s129.7 58 129.7 129.7c0 71.4-58.3 129.4-129.7 129.4s-129.7-58-129.7-129.4zm66 0c0 35.1 28.6 63.7 63.7 63.7s63.7-28.6 63.7-63.7c0-35.4-28.6-64-63.7-64s-63.7 28.6-63.7 64z"></path>
+			</svg>
+		  </a>
+		</div>
+	  </li>
+	</ul>
+  </div>
+</nav>
+
+	  </div>
+	</div>
+  </div>
+
+  <header class="header mb-5 pb-md-5">
+	<div class="container position-relative">
+	  <div class="header__inner bg-primary">
+		<div class="row justify-content-center">
+		  <div class="col-xl-11">
+			<div class="row align-items-center">
+			  <div class="col-xl-6 col-lg-7 text-white">
+				<h1 class="header__title">Поверка счетчиков воды в Самаре и области на дому, без снятия</h1>
+				<p class="header__price rounded mb-2">от 350* рублей</p>
+				<p>Акция действует на счетчики Аршин<br>полный пакет документов и регистрация во ФГИС "АРШИН"</p>
+				<div class="row">
+				  <div class="col-lg-4 col-md-4 col-sm-5 mb-3 mb-md-0">
+					<button type="button" class="btn btn-danger btn-block" data-toggle="modal" data-target="#orderModal">Заказать услугу</button>
+				  </div>
+				  <div class="col-sm-auto">
+					<a class="btn-fsa btn btn-outline-light" href="https://pub.fsa.gov.ru/ral/view/33122/accredited-entity" target="_blank" rel="noopener noreferrer">
+					  <svg width="37" height="34" viewBox="0 0 37 34" fill="currentColor">
+						<path d="M32.4878 33.2439C34.9798 33.2439 37 31.2237 37 28.7317C37 26.2397 34.9798 24.2195 32.4878 24.2195C29.9958 24.2195 27.9756 26.2397 27.9756 28.7317C27.9756 31.2237 29.9958 33.2439 32.4878 33.2439Z"></path>
+						<path d="M28.1156 5.06976C24.0948 2.26058 19.3251 0.756104 14.4399 0.756104C9.55461 0.756104 4.78491 2.26058 0.764104 5.06976C0.505441 5.25084 0 5.6279 0 5.6279V9.69019C1.88196 11.595 6.59733 12.9388 8.02196 12.9388V8.87819C9.97524 7.95789 12.1436 7.25419 14.4399 7.25419C16.7361 7.25419 18.9051 7.95789 20.8572 8.87819L0 18.6245C0 29.7988 14.4382 33.2439 14.4382 33.2439C14.4382 33.2439 28.878 29.7965 28.878 18.6245V5.62848C28.878 5.62848 28.372 5.25141 28.1156 5.06976ZM14.4399 26.7468C14.437 26.7468 8.02253 24.5245 8.02253 22.0358V22.0232L20.8578 16.0332V22.0358C20.8578 24.5245 14.4399 26.7468 14.4399 26.7468Z"></path>
+					  </svg>
+					  Проверить на сайте Росаккредитации
+					</a>
+				  </div>
+				</div>
+			  </div>
+			  <div class="col-xl-6 col-lg-5 text-right d-none d-lg-block">
+				<img class="img-fluid" src="img/header-smr.webp" alt="">
+			  </div>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	  <a class="header__doc btn btn-light" href="images/attestat.png" data-fancybox="">
+		<img class="img-fluid mr-3" src="img/header-doc.png" alt="alt">
+		Аттестат Аккредитации
+	  </a>
+	</div>
+  </header>
+<div class="container">
+<section class="row justify-content-center mb-sm-96p mb-64p">
+      <div class="col-xl-11">
+        <div class="section-subtitle">Поверка счетчиков</div>
+        <div class="h2 section-title mb-32p">Оставьте онлайн-заявку</div>
+<form class="ajax_form"  action="/" method="post">
+<input type="text" name="workemail" class="hide">
+<input type="hidden" name="mail">
+          <div class="row mb-n3">
+            <div class="form-group col-lg-3">
+              <input type="text" class="form-control form-control-lg" name="name" placeholder="Введите ваше имя" required="">
+            </div>
+            <div class="form-group col-lg-3">
+              <input type="tel" class="form-control form-control-lg" name="phone" placeholder="Введите ваш телефон" required="">
+            </div>
+            <div class="form-group col-lg-3">
+              <select class="form-control form-control-lg" name="quantity">
+                <option disabled="" selected="">Количество счетчиков</option>
+                <option value="1">1 счетчик</option>
+                <option value="2">2 счетчика</option>
+                <option value="3">3 счетчика</option>
+                <option value="4">4 счетчика</option>
+                <option value="5">5 счетчиков</option>
+                <option value="6">6 счетчиков</option>
+                <option value="7">7 счетчиков</option>
+                <option value="8">8 и более (скидка 20%)</option>
+              </select>
+            </div>
+            <div class="form-group col-lg-3">
+<input type="hidden" name="pagetitle" value="Главная (id: 1)">
+<input type="hidden" name="link" value="/">
+<input type="hidden" name="ip" value="79.136.195.236">
+<input type="hidden" name="referrer" value="">
+              <button class="btn btn-danger btn-lg btn-block">Оставить заявку</button>
+            </div>
+          </div>
+        
+	<input type="hidden" name="af_action" value="60b8c6b55c18fbbcffb7baf6f0280688" />
+</form>
+      </div>
+    </section>
+<section class="row justify-content-center mb-96p">
+      <div class="col-xl-11 fs-18">
+        <div class="section-subtitle">Основные услуги</div>
+        <div class="h2 section-title mb-32p">Наши цены</div>
+        <p>Компания "Доступные бытовые услуги" выполняет работы по поверке, установке и замене счетчиков воды и тепла на территории Самары и пригородов.</p>
+        <div class="row mt-5">
+<div class="col-lg-4 mt-5">
+    <div class="card-price bg-primary text-white">
+      <img class="card-price__img" src="images/checking.webp" alt="Поверка счетчиков воды на дому и без демонтажа. Картинка 1">
+      <img class="card-price__icon" src="images/search.svg" alt="Поверка счетчиков воды на дому и без демонтажа. Картинка 2">
+      <h3 class="card-price__title mb-4">Поверка счетчиков воды на дому и без демонтажа</h3>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Поверка одного:</div>
+        <div class="col-auto font-weight-600">350*-600 руб.</div>
+      </div>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Поверка для постоянных клиентов:</div>
+        <div class="col-auto font-weight-600">500 руб.</div>
+      </div>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Поверка для льготных клиентов:</div>
+        <div class="col-auto font-weight-600">550 руб.</div>
+      </div>
+      
+      
+      <div class="text-center mt-auto">
+        <button type="button" class="card-price__btn btn btn-lg btn-link mt-4" data-toggle="modal" data-target="#orderModal">
+          <span>Заказать проверку</span>
+        </button>
+      </div>
+    </div>
+  </div><div class="col-lg-4 mt-5">
+    <div class="card-price bg-secondary text-white">
+      <img class="card-price__img" src="images/schetchik-pulsar.webp" alt="Замена счетчиков воды на новые. Картинка 1">
+      <img class="card-price__icon" src="images/meter.svg" alt="Замена счетчиков воды на новые. Картинка 2">
+      <h3 class="card-price__title mb-4">Замена счетчиков воды на новые</h3>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Замена одного:</div>
+        <div class="col-auto font-weight-600">1800 руб.</div>
+      </div>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Замена двух:</div>
+        <div class="col-auto font-weight-600">3500 руб.</div>
+      </div>
+      
+      
+      
+      <div class="text-center mt-auto">
+        <button type="button" class="card-price__btn btn btn-lg btn-link mt-4" data-toggle="modal" data-target="#orderModal">
+          <span>Заказать замену</span>
+        </button>
+      </div>
+    </div>
+  </div><div class="col-lg-4 mt-5">
+    <div class="card-price bg-dark text-white">
+      <img class="card-price__img" src="images/laboratory.webp" alt="Замена счетчиков тепла на новые. Картинка 1">
+      <img class="card-price__icon" src="images/laboratory.svg" alt="Замена счетчиков тепла на новые. Картинка 2">
+      <h3 class="card-price__title mb-4">Замена счетчиков тепла на новые</h3>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Один счетчик:</div>
+        <div class="col-auto font-weight-600">5200 руб.</div>
+      </div>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Два счетчика:</div>
+        <div class="col-auto font-weight-600">10400 руб.</div>
+      </div>
+      
+      
+      
+      <div class="text-center mt-auto">
+        <button type="button" class="card-price__btn btn btn-lg btn-link mt-4" data-toggle="modal" data-target="#orderModal">
+          <span>Заказать монтаж</span>
+        </button>
+      </div>
+    </div>
+  </div><div class="col-lg-4 mt-5">
+    <div class="card-price bg-primary text-white">
+      <img class="card-price__img" src="images/ust.webp" alt="Установка счетчиков воды. Картинка 1">
+      <img class="card-price__icon" src="images/meter.svg" alt="Установка счетчиков воды. Картинка 2">
+      <h3 class="card-price__title mb-4">Установка счетчиков воды</h3>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Установка одного</div>
+        <div class="col-auto font-weight-600">от 1600 руб.</div>
+      </div>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Установка двух</div>
+        <div class="col-auto font-weight-600">от 3200 руб.</div>
+      </div>
+      
+      
+      
+      <div class="text-center mt-auto">
+        <button type="button" class="card-price__btn btn btn-lg btn-link mt-4" data-toggle="modal" data-target="#orderModal">
+          <span>Заказать установку</span>
+        </button>
+      </div>
+    </div>
+  </div><div class="col-lg-4 mt-5">
+    <div class="card-price bg-secondary text-white">
+      <img class="card-price__img" src="images/plomb.webp" alt="Пломбировка счетчиков. Картинка 1">
+      <img class="card-price__icon" src="images/meter.svg" alt="Пломбировка счетчиков. Картинка 2">
+      <h3 class="card-price__title mb-4">Пломбировка счетчиков</h3>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Пломбировка одного</div>
+        <div class="col-auto font-weight-600">1500 руб.</div>
+      </div>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Пломбировка двух</div>
+        <div class="col-auto font-weight-600">1500 руб.</div>
+      </div>
+      
+      
+      
+      <div class="text-center mt-auto">
+        <button type="button" class="card-price__btn btn btn-lg btn-link mt-4" data-toggle="modal" data-target="#orderModal">
+          <span>Заказать опломбировку</span>
+        </button>
+      </div>
+    </div>
+  </div><div class="col-lg-4 mt-5">
+    <div class="card-price bg-dark text-white">
+      <img class="card-price__img" src="images/teplp.png" alt="Поверка теплосчетчиков. Картинка 1">
+      <img class="card-price__icon" src="images/meter.svg" alt="Поверка теплосчетчиков. Картинка 2">
+      <h3 class="card-price__title mb-4">Поверка теплосчетчиков</h3>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Поверка одного</div>
+        <div class="col-auto font-weight-600">4500 руб.</div>
+      </div>
+      <div class="row no-gutters mt-2">
+        <div class="col card-price__service">Замена батарейки</div>
+        <div class="col-auto font-weight-600">800 руб.</div>
+      </div>
+      
+      
+      
+      <div class="text-center mt-auto">
+        <button type="button" class="card-price__btn btn btn-lg btn-link mt-4" data-toggle="modal" data-target="#orderModal">
+          <span>Заказать поверку</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+
+
+</div>
+      </div>
+    </section>
+</div>
+ <div class="collective-order mb-96p">
+    <div class="container">
+      <div class="collective-order__inner">
+        <div class="row align-items-end">
+          <div class="col-xl-6 col-lg-5 text-center d-none d-lg-block">
+            <img class="collective-order__img img-fluid" src="img/collective-order.webp" alt="">
+          </div>
+          <div class="col-xl-6 col-lg-7">
+            <div class="section-title h2 mb-0">Коллективная заявка</div>
+            <p>При коллективной заявке стоимость поверки</p>
+            <p class="collective-order__price">350 рублей за счетчик</p>
+            <button type="button" class="collective-order__btn btn btn-danger btn-lg" data-toggle="modal" data-target="#orderModal">Оставить заявку</button>
+            <p class="collective-order__note">*коллективной заявкой считается заявка от 8 счетчиков</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <section class="fs-18 mb-64p">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-xl-11">
+        <div class="section-subtitle">Документация</div>
+        <h2 class="section-title mb-4">Разрешительные документы</h2>
+        <p><span>Поверка счетчиков воды, согласно, ФЗ № 102 от 26.06.2008 г., может проводиться исключительно при наличии лицензии у юридической организации или индивидуального предпринимателя. Официальный аттестат аккредитации компании «Доступные бытовые услуги» смотрите на государственном сайте РОСАККРЕДИТАЦИИ</span></p>
+        <div class="row align-items-center">
+          <div class="col-lg-5 mt-n-3">
+<div class="card-doc card card-body shadow-sm mt-3">
+              <div class="row align-items-center">
+                <div class="col-lg-3 col-md-2 col-3 text-center">
+                  <img class="card-doc__img img-fluid" src="/assets/cache_image/images/permitting-doc-1_80x80_4ad.webp" alt="Карточка аккредитованного лица">
+                </div>
+                <div class="col-lg-9 col-md-10 col-9 position-static">
+                  <div class="mb-2">Карточка аккредитованного лица</div>
+                  <a class="stretched-link" href="images/permitting-doc-1.jpg" data-fancybox="permitting-docs">Посмотреть</a>
+                </div>
+              </div>
+            </div><div class="card-doc card card-body shadow-sm mt-3">
+              <div class="row align-items-center">
+                <div class="col-lg-3 col-md-2 col-3 text-center">
+                  <img class="card-doc__img img-fluid" src="/assets/cache_image/images/permitting-doc-2_80x80_4ad.webp" alt="Область аккредитации">
+                </div>
+                <div class="col-lg-9 col-md-10 col-9 position-static">
+                  <div class="mb-2">Область аккредитации</div>
+                  <a class="stretched-link" href="images/permitting-doc-2.jpg" data-fancybox="permitting-docs">Посмотреть</a>
+                </div>
+              </div>
+            </div><div class="card-doc card card-body shadow-sm mt-3">
+              <div class="row align-items-center">
+                <div class="col-lg-3 col-md-2 col-3 text-center">
+                  <img class="card-doc__img img-fluid" src="/assets/cache_image/images/permitting-doc-3_80x80_4ad.webp" alt="Приказ Росаккредитации">
+                </div>
+                <div class="col-lg-9 col-md-10 col-9 position-static">
+                  <div class="mb-2">Приказ Росаккредитации</div>
+                  <a class="stretched-link" href="images/permitting-doc-3.jpg" data-fancybox="permitting-docs">Посмотреть</a>
+                </div>
+              </div>
+            </div><div class="card-doc card card-body shadow-sm mt-3">
+              <div class="row align-items-center">
+                <div class="col-lg-3 col-md-2 col-3 text-center">
+                  <img class="card-doc__img img-fluid" src="/assets/cache_image/images/attestat_80x80_4ad.webp" alt="Аттестат аккредитации">
+                </div>
+                <div class="col-lg-9 col-md-10 col-9 position-static">
+                  <div class="mb-2">Аттестат аккредитации</div>
+                  <a class="stretched-link" href="images/attestat.png" data-fancybox="permitting-docs">Посмотреть</a>
+                </div>
+              </div>
+            </div>           </div>
+          <div class="col-lg-7 text-center d-none d-lg-block">
+            <img class="img-fluid" src="/images/permitting-docs.webp" alt="alt">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="fs-18 mb-64p">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-xl-11">
+        <div class="section-subtitle">Документация</div>
+        <h2 class="section-title mb-4">Документы, получаемые после поверки</h2>
+        <p>Официальные документы, выписанные метрологом компании «Доступные бытовые услуги» после проведения поверки счетчика воды, соответствуют действующему законодательству и действительны на всей территории РФ. Не забудьте отнести оригиналы в ТСЖ или УК по месту жительства.</p>
+        <div class="row align-items-center">
+          <div class="col-lg-7 text-center d-none d-lg-block">
+            <img class="img-fluid" src="/images/recieved-docs.webp" alt="">
+          </div>
+          <div class="col-lg-5 mt-n-3">
+<div class="card-doc card-doc--alt card card-body shadow-sm mt-3">
+              <div class="row align-items-center">
+                <div class="col-lg-3 col-md-2 col-3 text-center">
+                  <img class="card-doc__img img-fluid" src="/assets/cache_image/images/recieved-doc-1_80x80_4ad.webp" alt="Акт сдачи-приемки выполненных работ">
+                </div>
+                <div class="col-lg-9 col-md-10 col-9 position-static">
+                  <div class="mb-2">Акт сдачи-приемки выполненных работ</div>
+                  <a class="stretched-link" href="images/recieved-doc-1.jpg" data-fancybox="recieved-docs">Посмотреть</a>
+                </div>
+              </div>
+            </div><div class="card-doc card-doc--alt card card-body shadow-sm mt-3">
+              <div class="row align-items-center">
+                <div class="col-lg-3 col-md-2 col-3 text-center">
+                  <img class="card-doc__img img-fluid" src="/assets/cache_image/images/recieved-doc-2_80x80_4ad.webp" alt="Договор ч.1">
+                </div>
+                <div class="col-lg-9 col-md-10 col-9 position-static">
+                  <div class="mb-2">Договор ч.1</div>
+                  <a class="stretched-link" href="images/recieved-doc-2.jpg" data-fancybox="recieved-docs">Посмотреть</a>
+                </div>
+              </div>
+            </div><div class="card-doc card-doc--alt card card-body shadow-sm mt-3">
+              <div class="row align-items-center">
+                <div class="col-lg-3 col-md-2 col-3 text-center">
+                  <img class="card-doc__img img-fluid" src="/assets/cache_image/images/recieved-doc-3_80x80_4ad.webp" alt="Договор ч.2">
+                </div>
+                <div class="col-lg-9 col-md-10 col-9 position-static">
+                  <div class="mb-2">Договор ч.2</div>
+                  <a class="stretched-link" href="images/recieved-doc-3.jpg" data-fancybox="recieved-docs">Посмотреть</a>
+                </div>
+              </div>
+            </div><div class="card-doc card-doc--alt card card-body shadow-sm mt-3">
+              <div class="row align-items-center">
+                <div class="col-lg-3 col-md-2 col-3 text-center">
+                  <img class="card-doc__img img-fluid" src="/assets/cache_image/images/attestat_80x80_4ad.webp" alt="Копия аттестата аккредитации">
+                </div>
+                <div class="col-lg-9 col-md-10 col-9 position-static">
+                  <div class="mb-2">Копия аттестата аккредитации</div>
+                  <a class="stretched-link" href="images/attestat.png" data-fancybox="recieved-docs">Посмотреть</a>
+                </div>
+              </div>
+            </div>    
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+  <section class="fs-18 mb-64p">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-xl-11">
+          <div class="section-subtitle">5 шагов успеха</div>
+          <h2 class="section-title mb-4">Как происходит выполнение заказа</h2>
+        </div>
+      </div>
+    </div>
+    <div class="steps">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-xl-11 mb-xl-5">
+            <div class="text-center d-none d-xl-block">
+              <img class="img-fluid" src="img/steps.webp" alt="5 шагов. Изображение">
+            </div>
+            <ol class="row list-unstyled mb-n32p mb-xl-0">
+<li class="steps__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
+                <div class="card-step card card-body shadow">
+                  <div class="d-flex align-items-center justify-content-between mb-3">
+                    <img src="images/step-1.svg" alt="Звонок или онлайн-заявка">
+                    <div class="card-step__number">01</div>
+                  </div>
+                  <div>Звонок или онлайн-заявка</div>
+                </div>
+              </li><li class="steps__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
+                <div class="card-step card card-body shadow">
+                  <div class="d-flex align-items-center justify-content-between mb-3">
+                    <img src="images/step-2.svg" alt="Обсуждение деталей заказа">
+                    <div class="card-step__number">02</div>
+                  </div>
+                  <div>Обсуждение деталей заказа</div>
+                </div>
+              </li><li class="steps__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
+                <div class="card-step card card-body shadow">
+                  <div class="d-flex align-items-center justify-content-between mb-3">
+                    <img src="images/step-3.svg" alt="Приезд на адрес в назначенное время">
+                    <div class="card-step__number">03</div>
+                  </div>
+                  <div>Приезд на адрес в назначенное время</div>
+                </div>
+              </li><li class="steps__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
+                <div class="card-step card card-body shadow">
+                  <div class="d-flex align-items-center justify-content-between mb-3">
+                    <img src="images/step-4.svg" alt="Выполнение поверки приборов по установленной методике">
+                    <div class="card-step__number">04</div>
+                  </div>
+                  <div>Выполнение поверки приборов по установленной методике</div>
+                </div>
+              </li><li class="steps__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
+                <div class="card-step card card-body shadow">
+                  <div class="d-flex align-items-center justify-content-between mb-3">
+                    <img src="images/step-5.svg" alt="Оформление документов для УК, ТСЖ, Водоканала. Добавление данных в ФГИС &quot;Аршин&quot; на адресе">
+                    <div class="card-step__number">05</div>
+                  </div>
+                  <div>Оформление документов для УК, ТСЖ, Водоканала. Добавление данных в ФГИС &quot;Аршин&quot; на адресе</div>
+                </div>
+              </li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="fs-18 mb-64p">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-xl-11">
+          <div class="section-subtitle">О поверке</div>
+          <h2 class="section-title mb-4">Поверка счетчиков воды</h2>
+          <p> «Доступные Бытовые Услуги» – компания, которая давно работает в сфере обслуживания контрольно-измерительных приборов. Мы располагаем официальным допуском к установке, замене, опломбировке и поверке счетчиков тепла и воды всех марок и видов. Занимаемся индивидуальными, промышленными и общедомовыми КИП как одноструйными, так и многоструйными. Располагаем огромным опытом и высококвалифицированными мастерами – настоящими профессионалами своего дела. Не останавливаемся на достигнутом, непрерывно совершенствуя навыки и умения, чтобы гарантировать клиентам превосходный результат.</p>
+<p>Главный офис нашей компании расположен в Москве, а в других городах России мы открыли свои филиалы, чтобы обеспечивать население первоклассными услугами. Также у нас есть отделение в Самаре и Самарской области, где трудятся бригады, ответственно выполняя замену, ремонт, установку, поверку и опломбировку водомеров и тепломеров. Поэтому если у вас возникла такая необходимость, сразу обращайтесь к нам: отправляйте запрос через форму на сайте или по телефону.</p>
+<h3>Основная деятельность</h3>
+<p>Мы – команда, отлично освоившая навыки решения любых проблем, связанных с тепломерами и водомерами, независимо от их марки, вида, функционала и уровня сложности. Поэтому к нам можно обращаться, если нужны:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">срочное или профилактическое техобслуживание КИП (прочистка или замена фильтра, переустановка батареи, программное подключение к единой сети сбора данных в режиме онлайн, осмотр шарового крана и проч.);</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">поверка тепло- и водоизмерительных устройств на дому (без демонтажа);</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">установка тепломеров и водомеров с консультацией и предоставлением выбора аппаратов лучших российских и зарубежных производителей;</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">ремонт контрольно-измерительных приборов с заменой недействующих фитингов на качественные комплектующие;</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">опломбировка тепловых и водных счетчиков в установленные сроки и занесение данных в госреестр «Аршин»;</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">проверка тепло- и водоизмерительного оборудования на наличие в списке разрешенных к эксплуатации на территории РФ;</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">замена счетчиков воды и тепла на современные аналоги, подходящие по техническим параметрам или с улучшенным функционалом;</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">помощь в подборе оптимальных тепломеров и водомеров, в зависимости от рабочих характеристик системы.</p>
+</li>
+</ul>
+<p>Представители компании «Доступные Бытовые Услуги» выполняют максимально качественно все виды перечисленных работ. Соблюдают требования технической и индивидуальной безопасности, применяя средства защиты. Следуют правилам ГОСТа и установленного регламента. Поэтому мы на все сто уверены в своих профессиональных кадрах и в безупречности предлагаемых КИП. Наш сервис доступен для всех жителей Самары и Самарской области, так как мы поддерживаем невысокие цены и всесторонне подходим к обслуживанию счетчиков тепла и воды.</p>
+<h3>Специфика работы</h3>
+<p>Мы – Профессионалы с большой буквы, поэтому следить за соблюдением норм СНиП и ГОСТа – наша прямая обязанность. Причем наша компания предлагает клиентам максимально выгодные условия, которые являются основой качественных услуг. В частности, сюда относятся:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">быстрое и технологически правильное выполнение установки, опломбировки, замены, ремонта, поверки счетчиков воды;</p>
+</li>
+</ul>
+<ul>
+<li dir="ltr">
+<p dir="ltr">предоставление полного пакета документов для регистрации теплоизмерительного и водоизмерительного оборудования, самостоятельная отправка данных в реестр ФГИС «Аршин»;</p>
+</li>
+</ul>
+<ul>
+<li dir="ltr">
+<p dir="ltr">сверхответственное отношение к профессиональной деятельности, индивидуальный подход к каждому клиенту;</p>
+</li>
+</ul>
+<ul>
+<li dir="ltr">
+<p dir="ltr">достаточно гибкий график, ведь мы работаем не только в будние дни, но и по выходным, а также выезжаем на вызовы после 18:00;</p>
+</li>
+</ul>
+<ul>
+<li dir="ltr">
+<p dir="ltr">забота о здоровье, которая проявляется в использовании защитных масок, одноразовых перчаток и обязательном температурном контроле сотрудников;</p>
+</li>
+</ul>
+<ul>
+<li dir="ltr">
+<p dir="ltr">доступная стоимость поверки, замены, ремонта, монтажа и опломбировки счетчиков воды и тепла, скидки для льготников.</p>
+</li>
+</ul>
+<h3>Цена услуг</h3>
+<p>На этом вопросе стоит остановиться отдельно, ведь мы придерживаемся демократичной и клиентоориентированной ценовой политики, что является одним из наших многочисленных преимуществ. Кроме того, у нас действуют скидки, которые позволяют дополнительно сэкономить:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">персональные (для льготных категорий населения, постоянных клиентов, а также для тех, кто оставляет коллективные заявки);</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">праздничные (в рамках акций, связанных с особыми датами и праздниками);</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">сезонные (например, обусловленные началом отопительного сезона).</p>
+</li>
+</ul>
+<p>Стоимость каждой отдельной услуги определяется сложностью и многоэтапностью работы, ведь во многих случаях требуется выполнить не один процесс, а сразу несколько, причем с использованием высокотехнологичного оборудования.</p>
+<p>На цену также влияет количество расходных материалов и фитингов (если они нужны), срочность заказа, условия заявки и многие другие факторы. Но независимо от всего этого, нашей главной задачей является снижение расходов потребителей, ведь мы предлагаем одни из самых недорогих услуг в Самаре и Самарской области и делаем все качественно, чтобы клиенты могли экономить на коммунальных платежах.</p>
+<h3>Наши главные достоинства</h3>
+<ol>
+<li dir="ltr">
+<p dir="ltr">Максимальная ответственность, особенно в том, что касается технологических нюансов, ведь это ключевое условие правильного выполнения работы.</p>
+</li>
+</ol><ol start="2">
+<li dir="ltr">
+<p dir="ltr">Знание и соблюдение норм, от которых зависит качество обслуживания счетчиков тепла и воды.</p>
+</li>
+</ol><ol start="3">
+<li dir="ltr">
+<p dir="ltr">Штат профессиональных мастеров и инженеров, отлично разбирающихся в своем деле.</p>
+</li>
+</ol><ol start="4">
+<li dir="ltr">
+<p dir="ltr">Строгое отношение к срокам, ведь мы никогда не задерживаем работу и нацелены на своевременное выполнение поставленных задач.</p>
+</li>
+</ol><ol start="5">
+<li dir="ltr">
+<p dir="ltr">Наличие официальных допусков на установку, ремонт, замену, опломбировку, поверку теплосчетчиков и водомеров, а также на все остальные виды услуг, связанные с их обслуживанием (наша компания является аккредитованной лабораторией).</p>
+</li>
+</ol><ol start="6">
+<li dir="ltr">
+<p dir="ltr">Обязательное внесение информации о счетчиках в реестр ФГИС «Аршин» после их успешного монтажа.</p>
+</li>
+</ol><ol start="7">
+<li dir="ltr">
+<p dir="ltr">Выдача на руки всех документов, которые нужны для введения контрольно-измерительных приборов в эксплуатацию.</p>
+</li>
+</ol><ol start="8">
+<li dir="ltr">
+<p dir="ltr">Использование одноразовых перчаток, индивидуальных масок и антисептиков для защиты здоровья клиентов.</p>
+</li>
+</ol>
+<p>И это, кстати, далеко не все преимущества нашей компании. Лояльные цены, индивидуальный подход, скидки, пунктуальность и высокий профессионализм – то, что характеризует «Доступные Бытовые Услуги» с лучшей стороны, увеличивая количество постоянных заказчиков. Так что обращайтесь к нам, если вам требуется по-настоящему качественное обслуживание счетчиков тепла и воды. Мы с радостью придем на помощь!</p>
+          <div class="row align-items-end">
+            <div class="col-xl-6 col-lg-7">
+<div class="card-info card card-body shadow mt-4">
+                <div class="row align-items-center">
+                  <div class="col-xl-2 col-lg-3 col-sm-2 col-3">
+                    <img class="img-fluid" src="images/bar-chart.svg" alt="">
+                  </div>
+                  <div class="col-xl-10 col-lg-9 col-sm-10 col-9">
+                    <div class="card-info__title">4 года</div>
+                    <div>На рынке водоизмерительного оборудования</div>
+                  </div>
+                </div>
+              </div><div class="card-info card card-body shadow mt-4">
+                <div class="row align-items-center">
+                  <div class="col-xl-2 col-lg-3 col-sm-2 col-3">
+                    <img class="img-fluid" src="images/like.svg" alt="">
+                  </div>
+                  <div class="col-xl-10 col-lg-9 col-sm-10 col-9">
+                    <div class="card-info__title">150 000+</div>
+                    <div>Результатов поверок во ФГИС "Аршин"</div>
+                  </div>
+                </div>
+              </div><div class="card-info card card-body shadow mt-4">
+                <div class="row align-items-center">
+                  <div class="col-xl-2 col-lg-3 col-sm-2 col-3">
+                    <img class="img-fluid" src="images/calendar.svg" alt="">
+                  </div>
+                  <div class="col-xl-10 col-lg-9 col-sm-10 col-9">
+                    <div class="card-info__title">1 год</div>
+                    <div>Гарантии на монтажные виды работ</div>
+                  </div>
+                </div>
+              </div><div class="card-info card card-body shadow mt-4">
+                <div class="row align-items-center">
+                  <div class="col-xl-2 col-lg-3 col-sm-2 col-3">
+                    <img class="img-fluid" src="images/group.svg" alt="">
+                  </div>
+                  <div class="col-xl-10 col-lg-9 col-sm-10 col-9">
+                    <div class="card-info__title">Топ 5</div>
+                    <div>Входим в ТОП 5 компаний в сфере по версии популярных отраслевых рейтингов</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-6 col-lg-5 d-none d-lg-block">
+              <img class="img-fluid" src="images/text-img.webp" alt="Поверка счетчиков воды">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="mb-64p">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-xl-11">
+          <div class="section-subtitle">Ответы на</div>
+          <h2 class="section-title mb-4">Часто задаваемые вопросы</h2>
+          <div class="row accordion" id="accordionExample">
+            <div class="col-lg-6">
+<div class="accordion__item card card-body border-0 shadow">
+                  <button class="accordion__item-toggle btn collapsed" type="button" id="heading-1" data-toggle="collapse" data-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
+                    Нужно ли проводить поверку счетчиков и зачем?
+                  </button>
+                <div id="collapse-1" class="collapse" aria-labelledby="heading-1" data-parent="#accordionExample">
+                  <div class="accordion__item-content">
+                    <p><p>Поверка счетчиков - процедура поверки средств измерений (счётчиков воды), представляющая собой совокупность операций, выполняемых в целях подтверждения соответствия средств измерений метрологическим характеристикам.</p>
+<p>Межповерочный интервал устанавливает завод, об этом говорится в статье 13 Федерального Закона «Об обеспечении единства измерений» № 102-ФЗ и в постановлении Правительства РФ №354. Оплата по показаниям счетчиков будет невозможна, если не провести поверку в отведенный срок.</p>
+<p>Начисления, с первого числа нового месяца:</p>
+<ul>
+<li>первые три месяца – по средним показаниям за прошедшие полгода;</li>
+<li>с 4-го месяца – по общедомовым показаниям.</li>
+</ul>
+<p>Оплачивать по показаниям станет возможно после проведения поверки.</p></p>
+                  </div>
+                </div>
+              </div>
+
+<div class="accordion__item card card-body border-0 shadow">
+                  <button class="accordion__item-toggle btn collapsed" type="button" id="heading-2" data-toggle="collapse" data-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
+                    Когда следует проводить поверку счетчиков воды?
+                  </button>
+                <div id="collapse-2" class="collapse" aria-labelledby="heading-2" data-parent="#accordionExample">
+                  <div class="accordion__item-content">
+                    <p><p>В паспорте счетчика указан интервал, также в квитанции на оплату ЖКУ, в едином платежном документе, при подаче показаний, а еще можно узнать в управляющей компании.</p>
+<p>До истечения межповерочного интервала поверка должна быть проведена.</p>
+<p>Не критично, если поверка будет проведена ранее указанного срока. Если повреждены пломбы и знаки поверки, то поверку проводить необходимо в срочном порядке.</p></p>
+                  </div>
+                </div>
+              </div>
+
+<div class="accordion__item card card-body border-0 shadow">
+                  <button class="accordion__item-toggle btn collapsed" type="button" id="heading-3" data-toggle="collapse" data-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+                    Кем проводятся работы по поверке счетчиков? 
+                  </button>
+                <div id="collapse-3" class="collapse" aria-labelledby="heading-3" data-parent="#accordionExample">
+                  <div class="accordion__item-content">
+                    <p><p>Аккредитованная организация и имеющая лицензию.</p>
+<p>Также учитываются такие моменты, как:</p>
+<ul>
+<li>сколько лет существует на рынке компания;</li>
+<li>стоимость услуг компании;</li>
+<li>изучить отзывы клиентов.</li>
+</ul></p>
+                  </div>
+                </div>
+              </div>
+
+<div class="accordion__item card card-body border-0 shadow">
+                  <button class="accordion__item-toggle btn collapsed" type="button" id="heading-4" data-toggle="collapse" data-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
+                    Каким способом проводят поверку?
+                  </button>
+                <div id="collapse-4" class="collapse" aria-labelledby="heading-4" data-parent="#accordionExample">
+                  <div class="accordion__item-content">
+                    <p><p>Поверку счетчиков можно провести двумя способами:</p>
+<ul>
+<li>без снятия счетчика (если у мастера от организации имеется специальное оборудование для поверки);</li>
+<li>со снятием счетчика (если у мастера нет прибора для поверки).</li>
+</ul>
+<p>При обнаружении проблем со счетчиком, его меняют на новый или устраняют неисправности.</p></p>
+                  </div>
+                </div>
+              </div>
+
+</div>
+            <div class="col-lg-6"><div class="accordion__item card card-body border-0 shadow">
+                  <button class="accordion__item-toggle btn collapsed" type="button" id="heading-5" data-toggle="collapse" data-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
+                    Цена поверки? 
+                  </button>
+                <div id="collapse-5" class="collapse" aria-labelledby="heading-5" data-parent="#accordionExample">
+                  <div class="accordion__item-content">
+                    <p><p>Организация-исполнитель заключают договор по поверке или замене счетчиков с потребителем. Цена согласовывается двумя сторонами и специальных тарифов не имеется.</p></p>
+                  </div>
+                </div>
+              </div>
+
+<div class="accordion__item card card-body border-0 shadow">
+                  <button class="accordion__item-toggle btn collapsed" type="button" id="heading-6" data-toggle="collapse" data-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
+                    Что со счетчиком делают после проведения поверки? 
+                  </button>
+                <div id="collapse-6" class="collapse" aria-labelledby="heading-6" data-parent="#accordionExample">
+                  <div class="accordion__item-content">
+                    <p><p>После поверки данные вносятся в реестр «Аршин» в течение 40 дней. Собственник счетчика может проверить данные в реестре в любой момент по номеру счетчика.</p>
+<p>В бумажном виде свидетельство не выдается по закону. После поверки необходимо сообщать информацию в управляющую компанию.</p></p>
+                  </div>
+                </div>
+              </div>
+
+<div class="accordion__item card card-body border-0 shadow">
+                  <button class="accordion__item-toggle btn collapsed" type="button" id="heading-7" data-toggle="collapse" data-target="#collapse-7" aria-expanded="false" aria-controls="collapse-7">
+                    Как реагировать на звонки от компаний, предлагающих услуги поверки, при этом Ваш срок поверки еще не подошел?
+                  </button>
+                <div id="collapse-7" class="collapse" aria-labelledby="heading-7" data-parent="#accordionExample">
+                  <div class="accordion__item-content">
+                    <p><p>Такой способ используют компании, которые хотят прорекламировать услуги, но когда вы чувствуете, что вас заставляют, необходимо узнать:</p>
+<ul>
+<li>из какой компании звонят, какое точное название она имеет, контактный номер, какой юридический адрес;</li>
+<li>после телефонного разговора проверить паспорт прибора;</li>
+<li>обратиться в Федеральную службу по надзору в сфере защиты прав потребителей, если сотрудник навязчиво себя начинает вести.</li>
+</ul>
+<p>В случае незаконных действий по отношению к Вам со стороны звонящего, необходимо обратиться с жалобой в полицию.</p></p>
+                  </div>
+                </div>
+              </div>
+
+
+
+            
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+<div class="question mb-64p">
+  <div class="container">
+    <div class="question__inner bg-primary text-white">
+      <div class="row justify-content-center">
+        <div class="col-xl-11">
+          <div class="row align-items-end">
+            <div class="col-lg-6 text-center d-none d-lg-block">
+              <img class="question__img img-fluid" src="img/question.webp" alt="">
+            </div>
+            <div class="col-lg-6 py-xl-5 py-32p align-self-center">
+              <div class="section-subtitle">Остались вопросы?</div>
+              <div class="section-title h2 mb-0">Напишите нам!</div>
+<form class="mt-32p ajax_form" action="/" method="post">
+<input type="text" name="workemail" class="hide">
+<input type="hidden" name="mail">
+                <div class="row">
+                  <div class="form-group col-lg-6">
+                    <input type="text" class="form-control form-control-lg" name="name" placeholder="Введите ваше имя" required="">
+                  </div>
+                  <div class="form-group col-lg-6">
+                    <input type="tel" class="form-control form-control-lg" name="phone" placeholder="Введите ваш телефон" required="">
+                  </div>
+                  <div class="form-group col-lg-12">
+                    <textarea class="form-control form-control-lg" name="question" rows="3" placeholder="Ваш вопрос"></textarea>
+                  </div>
+                  <div class="col-12">
+<input type="hidden" name="pagetitle" value="Главная (id: 1)">
+<input type="hidden" name="link" value="/">
+<input type="hidden" name="ip" value="79.136.195.236">
+<input type="hidden" name="referrer" value="">
+                    <button class="btn btn-danger btn-lg btn-block">Оставить заявку</button>
+                  </div>
+                </div>
+              
+	<input type="hidden" name="af_action" value="7edabb9a9232f1dd81e0d56dfcae1f7c" />
+</form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--<section class="fs-18 mb-64p">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-xl-11">
+        <h2 class="section-subtitle">Наши клиенты</h2>
+        <div class="section-title mb-4">И что они говорят про нас</div>
+      </div>
+    </div>
+  </div>
+  <div class="reviews">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-xl-11 mb-xl-5">
+          <div class="text-center d-none d-xl-block">
+            <img class="img-fluid" src="img/reviews.png" alt="">
+          </div>
+          <ol class="row list-unstyled mb-n32p mb-xl-0">
+<li class="reviews__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
+              <div class="card-review card card-body shadow">
+                <img class="img-fluid" src="images/client-1.png" alt="Азбука Вкуса. Лого">
+                <a class="card-review__link" href="files/audio.mp3" data-fancybox="reviews">Смотреть отзыв</a>
+              </div>
+            </li><li class="reviews__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
+              <div class="card-review card card-body shadow">
+                <img class="img-fluid" src="images/client-2.png" alt="Взлет. Лого">
+                <a class="card-review__link" href="files/audio.mp3" data-fancybox="reviews">Смотреть отзыв</a>
+              </div>
+            </li><li class="reviews__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
+              <div class="card-review card card-body shadow">
+                <img class="img-fluid" src="images/client-3.png" alt="Дикси. Лого">
+                <a class="card-review__link" href="files/audio.mp3" data-fancybox="reviews">Смотреть отзыв</a>
+              </div>
+            </li><li class="reviews__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
+              <div class="card-review card card-body shadow">
+                <img class="img-fluid" src="images/client-4.png" alt="Эталон. Лого">
+                <a class="card-review__link" href="files/audio.mp3" data-fancybox="reviews">Смотреть отзыв</a>
+              </div>
+            </li><li class="reviews__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
+              <div class="card-review card card-body shadow">
+                <img class="img-fluid" src="images/client-5.png" alt="МГУ Ломоносова. Лого">
+                <a class="card-review__link" href="files/audio.mp3" data-fancybox="reviews">Смотреть отзыв</a>
+              </div>
+            </li><li class="reviews__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
+              <div class="card-review card card-body shadow">
+                <img class="img-fluid" src="images/client-6.png" alt="Химкинское СМУ. Лого">
+                <a class="card-review__link" href="files/audio.mp3" data-fancybox="reviews">Смотреть отзыв</a>
+              </div>
+            </li><li class="reviews__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
+              <div class="card-review card card-body shadow">
+                <img class="img-fluid" src="images/client-7.png" alt="ЖКХ Москвы. Лого">
+                <a class="card-review__link" href="files/audio.mp3" data-fancybox="reviews">Смотреть отзыв</a>
+              </div>
+            </li>
+          </ol>
+        </div>
+      </div>
+      <div class="text-center mt-xl-5 mt-32p">
+        <a href="otzyvy/" class="reviews__btn btn btn-lg btn-danger">Посмотреть все отзывы</a>
+      </div>
+    </div>
+  </div>
+</section>-->
+<section class="fs-18 mb-64p">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-xl-11">
+        <h2 class="section-subtitle">Новости</h2>
+        <div class="section-title mb-4">Нашей компании</div>
+        <ul class="slider slider--3 list-unstyled mb-0">
+  <li class="slider__item">
+            <div class="news-item card card-body shadow-sm">
+              <img class="w-100 rounded mb-3" src="/assets/cache_image/images/dbu23_332x233_1ce.webp" alt="Индексация тарифов на ЖКУ: какой она будет в 2026 году? Фото">
+              <div class="h5 font-weight-bold">Индексация тарифов на ЖКУ: какой она будет в 2026 году?</div>
+              
+              <a href="novosti/indeksaciya-tarifov-na-zhku-kakoj-ona-budet-v-2026-godu/" class="stretched-link">Читать подробнее</a>
+            </div>
+</li>
+<li class="slider__item">
+            <div class="news-item card card-body shadow-sm">
+              <img class="w-100 rounded mb-3" src="/assets/cache_image/images/dbu22_332x233_1ce.webp" alt="С Днём матери! Фото">
+              <div class="h5 font-weight-bold">С Днём матери!</div>
+              
+              <a href="novosti/s-dnem-materi/" class="stretched-link">Читать подробнее</a>
+            </div>
+</li>
+<li class="slider__item">
+            <div class="news-item card card-body shadow-sm">
+              <img class="w-100 rounded mb-3" src="/assets/cache_image/images/dbu21_332x233_1ce.webp" alt="С Днём народного единства! Фото">
+              <div class="h5 font-weight-bold">С Днём народного единства!</div>
+              
+              <a href="novosti/s-dnem-narodnogo-edinstva/" class="stretched-link">Читать подробнее</a>
+            </div>
+</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+  <footer class="footer pt-md-5 pt-4 pb-64p pb-xl-5">
+  <div class="container">
+	<div class="row justify-content-center">
+	  <div class="col-xl-11">
+		<div class="row justify-content-between">
+		  <div class="col-lg-auto d-none d-lg-block">
+			<div class="footer__logo">
+			  <img src="img/logo-new.svg" alt="Самара Поверка Самара Лого">
+			  
+			</div>
+		  </div>
+		  <div class="col-sm-auto">
+			<div class="font-weight-600 mb-sm-4 mb-2">Меню</div>
+<ul class="footer__menu list-unstyled mb-0"><li>
+<a href="o-nas/">О нас</a></li><li>
+<a href="nashi-uslugi/">Наши услуги</a></li><li>
+<a href="dokumenty/">Документы</a></li><li>
+<a href="otzyvy/">Отзывы</a></li><li>
+<a href="nashi-sotrudniki/">Наши сотрудники</a></li><li>
+<a href="kontakty/">Контакты</a></li></ul>
+			</div>
+		  <div class="col-sm-auto mt-4 mt-md-0">
+			<div class="font-weight-600 mb-sm-4 mb-2">Контактные данные</div>
+			<div class="contacts">
+			  <a class="contacts__item" href="mailto:info@dbu-poverka.ru">
+				<span class="contacts__item-icon">
+				  <img src="img/email.svg" alt="Email">
+				</span>
+				info@dbu-poverka.ru
+			  </a>
+			  <div class="contacts__item">
+				<span class="contacts__item-icon">
+				  <img src="img/address.svg" alt="">
+				</span>
+				Самара, ул. Садовая, д. 280
+			  </div>
+			  <div class="contacts__item">
+				<span class="contacts__item-icon">
+				  <img src="img/hours.svg" alt="Время работы">
+				</span>
+				Пн.-Вс.: 9:00 - 21:00
+			  </div>
+			</div>
+			<div style="margin-top:7px;"><a href="/obrabotka-personalnyh-dannyh/">Политика конфиденциальности</a></div>
+			<div style="margin-top:7px;"><a href="fgis-arshin-svedeniya-poverka/">ФГИС Результаты поверки</a></div>
+		  </div>
+		  <div class="col-sm-auto mt-4 mt-md-0">
+			<div class="font-weight-600 mb-2">Обратная связь</div>
+			<a href="tel:+78462115157" class="footer__phone">+7 846 211-51-57</a>
+			<button type="button" class="footer__btn btn btn-danger btn-sm" data-toggle="modal" data-target="#callbackModal">ЗАКАЗАТЬ ЗВОНОК</button>
+			<button type="button" class="footer__btn btn btn-primary btn-sm" data-toggle="modal" data-target="#orderModal">ВЫЗВАТЬ МАСТЕРА</button>
+			<div class="d-flex mt-2">
+			  <a href="https://t.me/dbupoverka" class="btn btn-sm btn-blue mr-2" target="_blank" rel="noopener noreferrer">
+				<div class="sr-only">Telegram</div>
+				<svg width="20" height="20" fill="currentColor" aria-hidden="true" focusable="false">
+				  <use xlink:href="img/sprite.svg#telegram"></use>
+				</svg>
+			  </a>
+			  <a href="viber://chat?number=%2B79775604613" class="btn btn-sm btn-purple mr-2" target="_blank" rel="noopener noreferrer">
+				<div class="sr-only">Viber</div>
+				<svg width="20" height="20" fill="currentColor" aria-hidden="true" focusable="false">
+				  <use xlink:href="img/sprite.svg#viber"></use>
+				</svg>
+			  </a>
+			  <a href="https://wa.me/79775604613" class="btn btn-sm btn-success mr-2" target="_blank" rel="noopener noreferrer">
+				<div class="sr-only">WhatsApp</div>
+				<svg width="20" height="20" fill="currentColor" aria-hidden="true" focusable="false">
+				  <use xlink:href="img/sprite.svg#whatsapp"></use>
+				</svg>
+			  </a>
+			 <a href="https://vk.com/dbupoverka" class="btn btn-sm btn-outline-primary mr-2" target="_blank" rel="noopener noreferrer">
+				<svg aria-hidden="true" focusable="false" viewBox="0 0 576 512" width="20" height="20">
+				  <path fill="currentColor" d="M545 117.7c3.7-12.5 0-21.7-17.8-21.7h-58.9c-15 0-21.9 7.9-25.6 16.7 0 0-30 73.1-72.4 120.5-13.7 13.7-20 18.1-27.5 18.1-3.7 0-9.4-4.4-9.4-16.9V117.7c0-15-4.2-21.7-16.6-21.7h-92.6c-9.4 0-15 7-15 13.5 0 14.2 21.2 17.5 23.4 57.5v86.8c0 19-3.4 22.5-10.9 22.5-20 0-68.6-73.4-97.4-157.4-5.8-16.3-11.5-22.9-26.6-22.9H38.8c-16.8 0-20.2 7.9-20.2 16.7 0 15.6 20 93.1 93.1 195.5C160.4 378.1 229 416 291.4 416c37.5 0 42.1-8.4 42.1-22.9 0-66.8-3.4-73.1 15.4-73.1 8.7 0 23.7 4.4 58.7 38.1 40 40 46.6 57.9 69 57.9h58.9c16.8 0 25.3-8.4 20.4-25-11.2-34.9-86.9-106.7-90.3-111.5-8.7-11.2-6.2-16.2 0-26.2.1-.1 72-101.3 79.4-135.6z"></path>
+				</svg>
+			  </a>
+			  
+			  
+			  <a href="https://ok.ru/group/58269418389650" class="btn btn-sm btn-outline-primary" target="_blank" rel="noopener noreferrer">
+				<svg aria-hidden="true" focusable="false" viewBox="0 0 320 512" width="20" height="20">
+				  <path fill="currentColor" d="M275.1 334c-27.4 17.4-65.1 24.3-90 26.9l20.9 20.6 76.3 76.3c27.9 28.6-17.5 73.3-45.7 45.7-19.1-19.4-47.1-47.4-76.3-76.6L84 503.4c-28.2 27.5-73.6-17.6-45.4-45.7 19.4-19.4 47.1-47.4 76.3-76.3l20.6-20.6c-24.6-2.6-62.9-9.1-90.6-26.9-32.6-21-46.9-33.3-34.3-59 7.4-14.6 27.7-26.9 54.6-5.7 0 0 36.3 28.9 94.9 28.9s94.9-28.9 94.9-28.9c26.9-21.1 47.1-8.9 54.6 5.7 12.4 25.7-1.9 38-34.5 59.1zM30.3 129.7C30.3 58 88.6 0 160 0s129.7 58 129.7 129.7c0 71.4-58.3 129.4-129.7 129.4s-129.7-58-129.7-129.4zm66 0c0 35.1 28.6 63.7 63.7 63.7s63.7-28.6 63.7-63.7c0-35.4-28.6-64-63.7-64s-63.7 28.6-63.7 64z"></path>
+				</svg>
+			  </a>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	  
+	</div>
+	
+<div class="border-top py-lg-2 py-2 mt-lg-30p mt-4" style="text-align-last: justify;">
+<a href="https://dbu-poverka.ru/">Москва</a>  
+<a href="https://piterpoverka.ru/">Санкт-Петербург</a>   
+<a href="https://водоканал48.рф/">Липецк</a>
+<a href="https://vrnpoverka.ru/">Воронеж</a>
+</div>
+
+	<div class="text-center border-top py-lg-4 py-3 mt-lg-30p">
+	  © 2018-2025 ООО "Доступные Бытовые Услуги" г. Самара Все права защищены.
+	</div>
+  </div>
+</footer>
+<button class="btn btn-sm btn-primary to-top" type="button" aria-label="Наверх"></button>
+  <div class="modal fade" id="callbackModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-xl modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body p-0">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <div class="callback">
+          <div class="row justify-content-center">
+            <div class="col-xl-11">
+              <div class="row align-items-center">
+                <div class="col-lg-6 align-self-end text-center d-none d-lg-block">
+                  <img class="img-fluid mt-xl-n4" src="img/callback.webp" alt="alt">
+                </div>
+                <div class="col-lg-5 mx-auto py-lg-32p">
+                  <div class="section-title h2 mb-0">Заказать звонок</div>
+                  <p>Наш оператор свяжется в ближайшее время</p>
+
+<form class=" mt-xl-5 mt-32p ajax_form" action="/" method="post">
+<input type="text" name="workemail" class="hide">
+<input type="hidden" name="mail">
+                    <div class="form-group">
+                      <input type="text" class="form-control form-control-lg" name="name" placeholder="Введите ваше имя" required="">
+                    </div>
+                    <div class="form-group">
+                      <input type="tel" class="form-control form-control-lg" name="phone" placeholder="Введите ваш телефон" required="">
+                    </div>
+                    <div class="form-group">
+<input type="hidden" name="pagetitle" value="Главная (id: 1)">
+<input type="hidden" name="link" value="/">
+<input type="hidden" name="ip" value="79.136.195.236">
+<input type="hidden" name="referrer" value="">
+                      <button class="btn btn-danger btn-lg btn-block">Оставить заявку</button>
+                    </div>
+                    <div class="alert alert-success text-center fs-18 mb-0" role="alert" style="display: none;">
+                      Ваша заявка успешно отправлена!
+                    </div>
+                  
+	<input type="hidden" name="af_action" value="bc6350ff63c22a41ff05af0d14b4f496" />
+</form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="orderModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-xl modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body p-0">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <div class="order">
+          <div class="row justify-content-center">
+            <div class="col-xl-11">
+              <div class="row align-items-center">
+                <div class="col-lg-6 align-self-end text-center d-none d-lg-block">
+                  <img class="img-fluid mt-xl-n96p" src="img/order.webp" alt="">
+                </div>
+                <div class="col-lg-5 mx-auto py-lg-32p">
+                  <div class="section-title h2 mb-0">Вызов мастера</div>
+                  <p>Наш оператор свяжется в ближайшее время</p>
+<form class="mt-xl-5 mt-32p ajax_form"   action="/" method="post">
+<input type="text" name="workemail" class="hide">
+<input type="hidden" name="mail">
+                    <div class="form-group">
+                      <input type="text" class="form-control form-control-lg" name="name" placeholder="Введите ваше имя" required="">
+                    </div>
+                    <div class="form-group">
+                      <input type="tel" class="form-control form-control-lg" name="phone" placeholder="Введите ваш телефон" required="">
+                    </div>
+                    <div class="form-group">
+<input type="hidden" name="pagetitle" value="Главная (id: 1)">
+<input type="hidden" name="link" value="/">
+<input type="hidden" name="ip" value="79.136.195.236">
+<input type="hidden" name="referrer" value="">
+                      <button class="btn btn-danger btn-lg btn-block">Оставить заявку</button>
+                    </div>
+                    <div class="alert alert-success text-center fs-18 mb-0" role="alert" style="display: none;">
+                      Ваша заявка успешно отправлена!
+                    </div>
+                  
+	<input type="hidden" name="af_action" value="65a594e42f1e6b07f4cfea6ad06c800d" />
+</form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="vcModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-xl modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body p-0">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <div class="callback">
+          <div class="row justify-content-center">
+            <div class="col-xl-11">
+              <div class="row align-items-center">
+                <div class="col-lg-6 align-self-end text-center d-none d-lg-block py-32p">
+                  <img class="img-fluid" src="img/vc.webp" alt="">
+                </div>
+                <div class="col-lg-5 mx-auto py-lg-32p">
+                  <div class="section-title h2 mb-0">Загрузите резюме</div>
+                  <p>и мы дадим ответ в ближайшее время</p>
+<form action="/" method="post" class="mt-xl-5 mt-32p ajax_form" enctype="multipart/form-data">
+<input type="text" name="workemail" class="hide">
+<input type="hidden" name="mail">
+                    <div class="form-group">
+                      <input type="text" class="form-control form-control-lg" name="name" placeholder="Введите ваше имя" required="">
+                    </div>
+                    <div class="form-group">
+                      <input type="tel" class="form-control form-control-lg" name="phone" placeholder="Введите ваш телефон" required="">
+                    </div>
+                    <label class="load-file btn btn-outline-light btn-lg btn-block text-truncate mb-3">
+                      <input type="file" name="upload" class="load-file__input sr-only" accept=".doc, .docx, .pdf">
+                      <svg width="18" height="18" fill="currentColor" aria-hidden="true" focusable="false">
+                        <use xlink:href="img/sprite.svg#paper-clip"></use>
+                      </svg>
+                      <span class="load-file__text">Загрузить файл</span>
+                    </label>
+                    <div class="form-group">
+<input type="hidden" name="pagetitle" value="Главная (id: 1)">
+<input type="hidden" name="link" value="/">
+<input type="hidden" name="ip" value="79.136.195.236">
+<input type="hidden" name="referrer" value="">
+                      <button class="btn btn-danger btn-lg btn-block">Отправить</button>
+                    </div>
+                    <div class="alert alert-success text-center fs-18 mb-0" role="alert" style="display: none;">
+                      Ваша заявка успешно отправлена!
+                    </div>
+                  
+	<input type="hidden" name="af_action" value="43b1f122c295f464f4a8d489045c9fa1" />
+</form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="successModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body p-0">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <div class="alert alert-success text-center fs-18 mb-0" role="alert">
+          Ваша заявка успешно отправлена!
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="js/scripts.min.js"></script>
+<script src="js/js-inputmask.js"></script>
+
+
+<!-- Yandex.Metrika counter -->
+<noscript><div>
+<img src="https://mc.yandex.ru/watch/88444804" style="position:absolute; left:-9999px;" alt="" />
+ <img src="https://mc.yandex.ru/watch/93900644" style="position:absolute; left:-9999px;" alt="" />
+</div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- FORM analytics -->
+<script>
+$(document).on('af_complete', function(event, response) {
+	var form = response.form;
+	if(response.success== true) {
+           ym(88444804,'reachGoal','submit_form_any');
+           ym(93900644,'reachGoal','SUBMIT_FORM001');
+
+// MANGO
+    let mes = form.find('[name="message"]').val();
+    mes = (typeof mes == 'undefined') ? '' : mes.trim();
+    let cnt = form.find('select[name="quantity"]').val();
+    
+    mes = (typeof mes == 'undefined' || mes.trim() == '') ? '' : ('Сообщение:  ' + mes + '\n');
+    mes += (typeof cnt == 'undefined' || cnt === null) ? '' : 'Количество счетчиков: ' + cnt + '\n';
+    if(mes.length > 2) mes.slice(0, -2);
+    mgo.postForm({name: form.find('input[name="name"]').val(), 
+				number: form.find('input[name="phone"]').val(), 
+				email: form.find('input[name="mail"]').val(),
+				comment: mes +' ИМЯ: '+form.find('input[name="name"]').val()+' | Телефон: '+form.find('input[name="phone"]').val()+' | ТЕМА: Заявка с сайта Самара Поверка | https://samarapoverka.ru/ |',
+				customParam: 88444804
+		}); 
+	} 
+return true;
+});
+</script>
+
+
+
+
+
+
+
+<script>
+        (function(w,d,u){
+                var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://dbu.com.ru/upload/crm/site_button/loader_3_8oqpaw.js');
+</script>
+
+<script src="/assets/components/ajaxform/js/default.js"></script>
+<script type="text/javascript">AjaxForm.initialize({"assetsUrl":"\/assets\/components\/ajaxform\/","actionUrl":"\/assets\/components\/ajaxform\/action.php","closeMessage":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","formSelector":"form.ajax_form","pageId":1});</script>
+</body>
+</html>
