@@ -1,0 +1,94 @@
+.margin-auto {
+	margin: 0 auto;
+}
+
+.navbar-light .navbar-brand span {
+	font-size: 1.1em;
+}
+
+.footer__menu li:not(:last-child) {
+	margin-bottom: 8px;
+}
+
+.footer__menu a {
+	display: block;
+}
+
+.to-top {
+position: fixed;
+    bottom: 20px;
+    left: 15px;
+    z-index: 10;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 20px;
+    background-image: url(../img/to-top.png);
+width: 38px;
+height: 38px;
+}
+
+@media (min-width: 300px) {
+	.ny .navbar-brand::before {
+		content: '';
+		position: absolute;
+		top: -3px;
+        left: 20px;
+		transform: translateX(-50%);
+		width: 119px;
+		height: 84px;
+		background-image: url("/img/ny/ny-logo.png");
+	}
+}
+
+@media (min-width: 767px) {
+	.ny .navbar-brand::before {
+		left: 11px;
+	}
+}
+
+
+@media (min-width: 1360px) {
+	.ny .navbar-brand::before {
+		top: 11px;
+    }
+}
+
+
+@media (min-width: 1440px) {
+	.ny {
+		background-repeat: no-repeat;
+		background-position: 0 0, 100% 0;
+		background-image: url("/img/ny/ny-left.webp"), url("/img/ny/ny-right.webp");
+	}
+	.ny .navbar-brand {
+		position: relative;
+	}
+	.ny .navbar-brand::before {
+		content: '';
+		position: absolute;
+		top: -15px;
+    }
+}
+
+.navbar-brand img {
+   max-width: 190px;
+}
+
+.navbar-light .navbar-brand span {
+  font-size: 18px;
+  line-height: 20px;
+}
+
+@media (max-width: 767px) {
+   .navbar-brand img {
+      max-width: 180px!important;
+   }
+   .navbar-light .navbar-brand span {
+      font-size: 16px;
+      line-height: 18px;
+   }
+}
+
+
+
+.politik .custom-control-label a {text-decoration:underline; color:#909090}

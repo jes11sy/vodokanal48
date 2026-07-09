@@ -12,8 +12,10 @@
   <meta property="og:url" content="https://водоканал48.рф/">
   <meta property="og:type" content="website">
   <link rel="shortcut icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="stylesheet" href="/css/logo-custom.css">
+  <link rel="preload" href="fonts/ProximaNova-Regular.woff2" as="font" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.min.css">
+  <link rel="stylesheet" href="css/add.css">
+  <link rel="stylesheet" href="css/logo-custom.css">
 
 <!-- Yandex.Metrika counter -->
 <script src="site-config.js"></script>
@@ -25,6 +27,7 @@
 </noscript>
 <!-- /Yandex.Metrika counter -->
 
+<link rel="stylesheet" href="assets/components/ajaxform/css/default.css" type="text/css" />
 </head>
 <body class="">
   <div class="container">
@@ -37,7 +40,7 @@
 		<li class="col-auto">
 		  <a class="contacts__item" href="mailto:info@vodokanal48.ru">
 			<span class="contacts__item-icon">
-			  <img src="/img/email.svg" alt="email">
+			  <img src="img/email.svg" alt="email">
 			</span>
 			info@vodokanal48.ru
 		  </a>
@@ -45,7 +48,7 @@
 		<li class="col-auto">
 		  <div class="contacts__item">
 			<span class="contacts__item-icon">
-			  <img src="/img/address.svg" alt="">
+			  <img src="img/address.svg" alt="">
 			</span>
 			Липецк, ул. Ленина, д. 21
 		  </div>
@@ -53,7 +56,7 @@
 		<li class="col-auto">
 		  <div class="contacts__item">
 			<span class="contacts__item-icon">
-			  <img src="/img/hours.svg" alt="email">
+			  <img src="img/hours.svg" alt="email">
 			</span>
 			Пн.-Вс.: 9:00 - 21:00
 		  </div>
@@ -152,13 +155,15 @@
 				  </div>
 				</div>
 			  </div>
-			  <div class="col-xl-6 col-lg-5 text-right d-none d-lg-block header__visual">💧</div>
+			  <div class="col-xl-6 col-lg-5 text-right d-none d-lg-block">
+				<img class="img-fluid" src="img/order.webp" alt="">
+			  </div>
 			</div>
 		  </div>
 		</div>
 	  </div>
 	  <a class="header__doc btn btn-light" href="javascript:void(0);" onclick="openAccreditationModal()" style="cursor: pointer;">
-		<span class="mr-3" style="font-size:1.5rem">📄</span>
+		<img class="img-fluid mr-3" src="img/header-doc.png" alt="alt">
 		Аттестат Аккредитации
 	  </a>
 	</div>
@@ -210,8 +215,8 @@
         <div class="row mt-5">
 <div class="col-lg-4 mt-5">
     <div class="card-price bg-primary text-white">
-      <img class="card-price__img" src="/images/checking.webp" alt="Поверка счетчиков воды на дому и без демонтажа. Картинка 1">
-      <img class="card-price__icon" src="/img/search.svg" alt="">
+      <img class="card-price__img" src="images/checking.webp" alt="Поверка счетчиков воды на дому и без демонтажа. Картинка 1">
+      <img class="card-price__icon" src="images/search.svg" alt="Поверка счетчиков воды на дому и без демонтажа. Картинка 2">
       <h3 class="card-price__title mb-4">Поверка счетчиков воды на дому и без демонтажа</h3>
       <div class="row no-gutters mt-2">
         <div class="col card-price__service">Поверка одного:</div>
@@ -235,8 +240,8 @@
     </div>
   </div><div class="col-lg-4 mt-5">
     <div class="card-price bg-secondary text-white">
-      <img class="card-price__img" src="/images/schetchik-pulsar.webp" alt="Замена счетчиков воды на новые. Картинка 1">
-      <img class="card-price__icon" src="/img/meter.svg" alt="">
+      <img class="card-price__img" src="images/schetchik-pulsar.webp" alt="Замена счетчиков воды на новые. Картинка 1">
+      <img class="card-price__icon" src="images/meter.svg" alt="Замена счетчиков воды на новые. Картинка 2">
       <h3 class="card-price__title mb-4">Замена счетчиков воды на новые</h3>
       <div class="row no-gutters mt-2">
         <div class="col card-price__service">Замена одного:</div>
@@ -257,8 +262,8 @@
     </div>
   </div><div class="col-lg-4 mt-5">
     <div class="card-price bg-primary text-white">
-      <img class="card-price__img" src="/images/ust.webp" alt="Установка счетчиков воды. Картинка 1">
-      <img class="card-price__icon" src="/img/meter.svg" alt="">
+      <img class="card-price__img" src="images/ust.webp" alt="Установка счетчиков воды. Картинка 1">
+      <img class="card-price__icon" src="images/meter.svg" alt="Установка счетчиков воды. Картинка 2">
       <h3 class="card-price__title mb-4">Установка счетчиков воды</h3>
       <div class="row no-gutters mt-2">
         <div class="col card-price__service">Установка одного</div>
@@ -279,8 +284,8 @@
     </div>
   </div><div class="col-lg-4 mt-5">
     <div class="card-price bg-secondary text-white">
-      <img class="card-price__img" src="/images/plomb.webp" alt="Пломбировка счетчиков. Картинка 1">
-      <img class="card-price__icon" src="/img/meter.svg" alt="">
+      <img class="card-price__img" src="images/plomb.webp" alt="Пломбировка счетчиков. Картинка 1">
+      <img class="card-price__icon" src="images/meter.svg" alt="Пломбировка счетчиков. Картинка 2">
       <h3 class="card-price__title mb-4">Пломбировка счетчиков</h3>
       <div class="row no-gutters mt-2">
         <div class="col card-price__service">Пломбировка одного</div>
@@ -312,7 +317,7 @@
       <div class="collective-order__inner">
         <div class="row align-items-end">
           <div class="col-xl-6 col-lg-5 text-center d-none d-lg-block">
-            <div class="collective-order__visual d-none d-lg-block">👥</div>
+            <img class="collective-order__img img-fluid" src="img/collective-order.webp" alt="">
           </div>
           <div class="col-xl-6 col-lg-7">
             <div class="section-title h2 mb-0">Коллективная заявка</div>
@@ -339,11 +344,14 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-xl-11 mb-xl-5">
+            <div class="text-center d-none d-xl-block">
+              <img class="img-fluid" src="img/steps.webp" alt="5 шагов. Изображение">
+            </div>
             <ol class="row list-unstyled mb-n32p mb-xl-0">
 <li class="steps__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
                 <div class="card-step card card-body shadow">
                   <div class="d-flex align-items-center justify-content-between mb-3">
-                    <img src="/images/step-1.svg" alt="Звонок или онлайн-заявка">
+                    <img src="images/step-1.svg" alt="Звонок или онлайн-заявка">
                     <div class="card-step__number">01</div>
                   </div>
                   <div>Звонок или онлайн-заявка</div>
@@ -351,7 +359,7 @@
               </li><li class="steps__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
                 <div class="card-step card card-body shadow">
                   <div class="d-flex align-items-center justify-content-between mb-3">
-                    <img src="/images/step-2.svg" alt="Обсуждение деталей заказа">
+                    <img src="images/step-2.svg" alt="Обсуждение деталей заказа">
                     <div class="card-step__number">02</div>
                   </div>
                   <div>Обсуждение деталей заказа</div>
@@ -359,7 +367,7 @@
               </li><li class="steps__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
                 <div class="card-step card card-body shadow">
                   <div class="d-flex align-items-center justify-content-between mb-3">
-                    <img src="/images/step-3.svg" alt="Приезд на адрес в назначенное время">
+                    <img src="images/step-3.svg" alt="Приезд на адрес в назначенное время">
                     <div class="card-step__number">03</div>
                   </div>
                   <div>Приезд на адрес в назначенное время</div>
@@ -367,7 +375,7 @@
               </li><li class="steps__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
                 <div class="card-step card card-body shadow">
                   <div class="d-flex align-items-center justify-content-between mb-3">
-                    <img src="/images/step-4.svg" alt="Выполнение поверки приборов по установленной методике">
+                    <img src="images/step-4.svg" alt="Выполнение поверки приборов по установленной методике">
                     <div class="card-step__number">04</div>
                   </div>
                   <div>Выполнение поверки приборов по установленной методике</div>
@@ -375,7 +383,7 @@
               </li><li class="steps__item col-xl-3 col-lg-4 col-sm-6 mb-32p mb-xl-0">
                 <div class="card-step card card-body shadow">
                   <div class="d-flex align-items-center justify-content-between mb-3">
-                    <img src="/images/step-5.svg" alt="Оформление документов для УК, ТСЖ, Водоканала. Добавление данных в ФГИС &quot;Аршин&quot; на адресе">
+                    <img src="images/step-5.svg" alt="Оформление документов для УК, ТСЖ, Водоканала. Добавление данных в ФГИС &quot;Аршин&quot; на адресе">
                     <div class="card-step__number">05</div>
                   </div>
                   <div>Оформление документов для УК, ТСЖ, Водоканала. Добавление данных в ФГИС &quot;Аршин&quot; на адресе</div>
@@ -401,7 +409,7 @@
 <div class="card-info card card-body shadow mt-4">
                 <div class="row align-items-center">
                   <div class="col-xl-2 col-lg-3 col-sm-2 col-3">
-                    <img class="img-fluid" src="/images/bar-chart.svg" alt="">
+                    <img class="img-fluid" src="images/bar-chart.svg" alt="">
                   </div>
                   <div class="col-xl-10 col-lg-9 col-sm-10 col-9">
                     <div class="card-info__title">4 года</div>
@@ -411,7 +419,7 @@
               </div><div class="card-info card card-body shadow mt-4">
                 <div class="row align-items-center">
                   <div class="col-xl-2 col-lg-3 col-sm-2 col-3">
-                    <img class="img-fluid" src="/images/like.svg" alt="">
+                    <img class="img-fluid" src="images/like.svg" alt="">
                   </div>
                   <div class="col-xl-10 col-lg-9 col-sm-10 col-9">
                     <div class="card-info__title">150 000+</div>
@@ -421,7 +429,7 @@
               </div><div class="card-info card card-body shadow mt-4">
                 <div class="row align-items-center">
                   <div class="col-xl-2 col-lg-3 col-sm-2 col-3">
-                    <img class="img-fluid" src="/images/calendar.svg" alt="">
+                    <img class="img-fluid" src="images/calendar.svg" alt="">
                   </div>
                   <div class="col-xl-10 col-lg-9 col-sm-10 col-9">
                     <div class="card-info__title">1 год</div>
@@ -431,7 +439,7 @@
               </div><div class="card-info card card-body shadow mt-4">
                 <div class="row align-items-center">
                   <div class="col-xl-2 col-lg-3 col-sm-2 col-3">
-                    <img class="img-fluid" src="/images/group.svg" alt="">
+                    <img class="img-fluid" src="images/group.svg" alt="">
                   </div>
                   <div class="col-xl-10 col-lg-9 col-sm-10 col-9">
                     <div class="card-info__title">Топ 5</div>
@@ -441,7 +449,7 @@
               </div>
             </div>
             <div class="col-xl-6 col-lg-5 d-none d-lg-block">
-            <div class="col-xl-6 col-lg-5 d-none d-lg-block header__visual" style="font-size:5rem;text-align:center;opacity:.3">📋</div>
+              <img class="img-fluid" src="images/text-img.webp" alt="Поверка счетчиков воды">
             </div>
           </div>
         </div>
@@ -574,7 +582,7 @@
         <div class="col-xl-11">
           <div class="row align-items-end">
             <div class="col-lg-6 text-center d-none d-lg-block">
-              <div class="question__visual d-none d-lg-block">❓</div>
+              <img class="question__img img-fluid" src="img/question.webp" alt="">
             </div>
             <div class="col-lg-6 py-xl-5 py-32p align-self-center">
               <div class="section-subtitle">Остались вопросы?</div>
@@ -628,19 +636,19 @@
 			<div class="contacts">
 			  <a class="contacts__item" href="mailto:info@vodokanal48.ru">
 				<span class="contacts__item-icon">
-				  <img src="/img/email.svg" alt="Email">
+				  <img src="img/email.svg" alt="Email">
 				</span>
 				info@vodokanal48.ru
 			  </a>
 			  <div class="contacts__item">
 				<span class="contacts__item-icon">
-				  <img src="/img/address.svg" alt="">
+				  <img src="img/address.svg" alt="">
 				</span>
 				Липецк, ул. Ленина, д. 21
 			  </div>
 			  <div class="contacts__item">
 				<span class="contacts__item-icon">
-				  <img src="/img/hours.svg" alt="Время работы">
+				  <img src="img/hours.svg" alt="Время работы">
 				</span>
 				Пн.-Вс.: 9:00 - 21:00
 			  </div>
@@ -674,7 +682,9 @@
       </button>
       <div class="modal-body p-0">
         <div class="row no-gutters align-items-center">
-          <div class="col-md-5 d-none d-md-block" style="background:linear-gradient(135deg,#0f2350,#1a3a6b);min-height:280px;display:flex;align-items:center;justify-content:center;font-size:4rem">🔧</div>
+          <div class="col-md-5 d-none d-md-block">
+            <img src="img/order.webp" alt="Мастер" style="width: 100%; height: 100%; object-fit: cover;">
+          </div>
           <div class="col-md-7">
             <div class="p-4 p-md-5" style="color: white;">
               <h2 class="mb-2" style="font-weight: 700; font-size: 2rem;">Вызов мастера</h2>
@@ -708,7 +718,9 @@
       </button>
       <div class="modal-body p-0">
         <div class="row no-gutters align-items-center">
-          <div class="col-md-5 d-none d-md-block" style="background:linear-gradient(135deg,#0f2350,#1a3a6b);min-height:280px;display:flex;align-items:center;justify-content:center;font-size:4rem">🔧</div>
+          <div class="col-md-5 d-none d-md-block">
+            <img src="img/order.webp" alt="Мастер" style="width: 100%; height: 100%; object-fit: cover;">
+          </div>
           <div class="col-md-7">
             <div class="p-4 p-md-5" style="color: white;">
               <h2 class="mb-2" style="font-weight: 700; font-size: 2rem;">Заказать звонок</h2>
@@ -747,7 +759,8 @@
   </div>
 </div>
 
-<script src="/js/ui.js"></script>
+<script src="js/scripts.min.js"></script>
+<script src="assets/components/ajaxform/js/default.js"></script>
 <script src="config.js"></script>
 <script src="script.js"></script>
 

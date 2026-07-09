@@ -1,5 +1,9 @@
 // Яндекс.Метрика для водоканал48.рф
 (function() {
+    if (location.protocol === 'file:') {
+        return;
+    }
+
     const counterId = (typeof SITE_CONFIG !== 'undefined' && SITE_CONFIG.yandexMetrikaId) || '105914824';
 
     (function(m,e,t,r,i,k,a){
