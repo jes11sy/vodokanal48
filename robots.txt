@@ -7,7 +7,7 @@ Allow: /
 User-agent: Googlebot
 Allow: /
 
-Host: https://водоканал48.рф/
+Host: водоканал48.рф
 
 User-agent: *
 Disallow: /thanks.html

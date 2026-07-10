@@ -10,6 +10,6 @@ const SITE_CONFIG = {
     phone: '+79539979467',
     phoneDisplay: '+7 (953) 997-94-67',
     address: 'Липецк, ул. Ленина, д. 21',
-    yandexMetrikaId: '105914824',
+    yandexMetrikaId: '110566718',
     cdnUrl: ''
 };

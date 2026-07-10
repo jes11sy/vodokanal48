@@ -4,7 +4,7 @@
         return;
     }
 
-    const counterId = (typeof SITE_CONFIG !== 'undefined' && SITE_CONFIG.yandexMetrikaId) || '105914824';
+    const counterId = (typeof SITE_CONFIG !== 'undefined' && SITE_CONFIG.yandexMetrikaId) || '110566718';
 
     (function(m,e,t,r,i,k,a){
         m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
